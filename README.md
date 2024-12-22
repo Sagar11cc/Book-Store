@@ -14,8 +14,8 @@
 
 ## Screenshots
 
-### Recipe List
+### Recipe 
 ![Recipe List](Screenshot/1.png)
 
-### Recipe Details
-![Recipe Details](Screenshot/2.png)
+### Recipe 
+![Recipe ](Screenshot/2.png)
