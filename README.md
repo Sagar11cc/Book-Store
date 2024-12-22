@@ -16,7 +16,7 @@ This project demonstrates how to create a **Flutter Recipe App** that fetches an
 ## Screenshots
 
 ### Recipe List
-![Recipe List](screenshots/1.png)
+![Recipe List](Screenshot/1.png)
 
 ### Recipe Details
-![Recipe Details](screenshots/2.png)
+![Recipe Details](Screenshot/2.png)
