@@ -1,16 +1,22 @@
-# api_integration
+# Flutter Recipe App Using API
 
-A new Flutter project.
+This project demonstrates how to create a **Flutter Recipe App** that fetches and displays recipe data from an API. By following this implementation, you'll learn how to design a simple and beautiful recipe list app in Flutter while leveraging the power of APIs for dynamic data fetching.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Recipe List**: Fetches and displays a list of recipes dynamically from an API.
+- **Clean UI Design**: A user-friendly interface designed to showcase recipes elegantly.
+- **API Integration**: Demonstrates how to connect Flutter apps to external APIs for data retrieval.
 
-A few resources to get you started if this is your first Flutter project:
+## Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter SDK**: Ensure you have Flutter installed on your system. Follow the [official Flutter installation guide](https://docs.flutter.dev/get-started/install).
+- **API Key (if required)**: Obtain an API key for the recipe data source if necessary.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+### Recipe List
+![Recipe List](screenshots/1.png)
+
+### Recipe Details
+![Recipe Details](screenshots/2.png)
